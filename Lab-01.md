@@ -42,3 +42,4 @@ In a real office environment, these skills directly support network deployment, 
 ## 📸 Proof of Work
 ![Cisco Packet Tracer Topology](<img width="1915" height="1023" alt="Screenshot 2025-11-18 194434" src="https://github.com/user-attachments/assets/72203567-b53b-4726-aad7-3e5f48538da7" />
 )
+![My Terminal Success](terminal.png)
